@@ -19,7 +19,7 @@ ENV LANG=en_US.UTF-8 \
     LANGUAGE=en_US.UTF-8 \
     LC_ALL=en_US.UTF-8
 
-ENV APP_URL='https://terraria.org/system/dedicated_servers/archives/000/000/037/original/terraria-server-1403.zip' \
+ENV APP_URL='https://terraria.org/system/dedicated_servers/archives/000/000/037/original/terraria-server-1404.zip' \
     VANILLA_VERSION=1404 \
     PORT=7777
 
